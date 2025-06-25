@@ -1,5 +1,5 @@
-Get Quicken Running on This Computer – How to Download & Install Quicken Bought Already
-========================================================================================
+How to Download & Install Quicken Bought Already
+=================================================
 
 .. raw:: html
 
