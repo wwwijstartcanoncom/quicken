@@ -4,7 +4,7 @@ How to Download & Install Quicken Bought Already
 .. raw:: html
 
     <div style="text-align:center; margin-top:30px;">
-        <a href="https://quickencomdownload.wordpress.com/" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+        <a href="https://pre.im/?GZGqGXnYcaJ9kAGD3iC1f6TZZWWMw1eb6FexZVA3aZfoN61Q3cZLHhW0YghwzLcsuMaktJslls" style="background-color:#28a745; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
             Go with Quicken Now
         </a>
     </div>
